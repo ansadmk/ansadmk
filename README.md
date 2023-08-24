@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohemed Ansad Mk</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
-https://github.com/ansadmk/ansadmk/blob/main/assets/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif
+<img src="https://github.com/ansadmk/ansadmk/blob/main/assets/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100">
 <img src="https://github.com/ansadmk/ansadmk/blob/main/assets/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
