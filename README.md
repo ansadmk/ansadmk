@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
   </div>
-<p align="center"> <img src="http://hits.dwyl.com/ansadmk/ansadmk.svg" alt="ansadmk" /> </p>
+
 
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansadmk" alt="ansadmk" /></a> </div>
 
