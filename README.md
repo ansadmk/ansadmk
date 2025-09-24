@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
   </div>
-<div align="center"><img src="https://leetcode.card.workers.dev/ansadmk?theme=dark&font=baloo&extension=activity" ></div>
+<!-- <div align="center"><img src="https://leetcode.card.workers.dev/ansadmk?theme=dark&font=baloo&extension=activity" ></div> -->
 
 
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansadmk" alt="ansadmk" /></a> </div>
